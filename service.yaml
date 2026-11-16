@@ -1,0 +1,4 @@
+service:
+  name: bud-portal-demo
+  owner: group:default/kubecon-squad
+  environment: development
